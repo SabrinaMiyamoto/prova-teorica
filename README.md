@@ -1,6 +1,5 @@
 # Nome do Seu Projeto
-
-Breve descrição do seu projeto.
+Cadastro e Listagem de Produtos.
 
 ## Pré-requisitos
 
