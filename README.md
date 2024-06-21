@@ -22,5 +22,5 @@ npm install  # ou use yarn
 
 
 2. **Como Usar**:
-   
+    ```bash
    npm run dev  # ou use yarn dev
